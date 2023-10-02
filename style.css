@@ -1,0 +1,104 @@
+body {
+  background-color: aquamarine;
+}
+
+.wrapper {
+  max-width: 690px;
+  margin-left: 30%;
+}
+
+.balloon {
+  text-align: center;
+  display: inline-block;
+  height: 180px;
+  width: 180px;
+  border-radius: 100%;
+  margin: 3px 5px;
+  background-color: #0066cc;
+  color: #000000;
+  border-color: #000000;
+}
+
+#balloon1 {
+  background-color: #d61414;
+}
+
+#balloon2 {
+  background-color: #00ff00;
+}
+
+#balloon3 {
+  background-color: #ffff4d;
+}
+
+#balloon4 {
+  background-color: #ff9933;
+}
+
+#balloon5 {
+  background-color: #ff3333;
+}
+
+#balloon6 {
+  background-color: #ff9933;
+}
+
+#balloon7 {
+  background-color: #ff1a1a;
+}
+
+#balloon8 {
+  background-color: #993333;
+}
+
+#balloon9 {
+  background-color: #ff0066;
+}
+
+#balloon10 {
+  background-color: #ff3300;
+}
+
+#balloon11 {
+  background-color: #cc0099;
+}
+
+#balloon12 {
+  background-color: #99cc00;
+}
+
+#balloon13 {
+  background-color: #333300;
+}
+
+#balloon14 {
+  background-color: #00ffff;
+}
+
+#balloon15 {
+  background-color: #003300;
+}
+
+#balloon16 {
+  background-color: #666633;
+}
+
+#balloon17 {
+  background-color: #996633;
+}
+
+#balloon18 {
+  background-color: #660033;
+}
+
+#balloon19 {
+  background-color: #ffcc66;
+}
+
+#balloon20 {
+  background-color: #6600cc;
+}
+
+#balloon21 {
+  background-color: #66ff33;
+}
